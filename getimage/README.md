@@ -17,5 +17,7 @@ Simply run:
 
 To use it:
 
-    $ getimage --help
+    $ getimage --h
+
+#คำสั่งดูภาพ getiimage jigsaw
 
