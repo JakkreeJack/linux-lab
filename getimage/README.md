@@ -19,5 +19,5 @@ To use it:
 
     $ getimage --h
 
-#คำสั่งดูภาพ getiimage jigsaw
+#คำสั่งดูภาพ getimage jigsaw
 
